@@ -1,0 +1,12 @@
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/CMakeFiles/height-calculator.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/CMakeFiles/test.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/CMakeFiles/edit_cache.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/CMakeFiles/rebuild_cache.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/CMakeFiles/height-calculator_autogen_timestamp_deps.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/CMakeFiles/height-calculator_autogen.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/tests/CMakeFiles/test_calculator.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/tests/CMakeFiles/test.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/tests/CMakeFiles/edit_cache.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/tests/CMakeFiles/rebuild_cache.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/tests/CMakeFiles/test_calculator_autogen_timestamp_deps.dir
+/home/filip/agh/Metodyki DevOps/height-calculator-fot-docker/build/tests/CMakeFiles/test_calculator_autogen.dir
