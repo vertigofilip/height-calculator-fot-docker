@@ -16,6 +16,7 @@ RUN apt-get update && apt-get install -y \
     libqt6core6 \
     qt6-tools-dev \
     qt6-tools-dev-tools \
+    qt6-tools-private-dev \
     xvfb \
     && rm -rf /var/lib/apt/lists/*
 
