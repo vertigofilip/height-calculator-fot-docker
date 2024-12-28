@@ -14,7 +14,8 @@ RUN apt-get update && apt-get install -y \
     libqt6widgets6 \
     libqt6gui6 \
     libqt6core6 \
-    qtbase6-dev-tools \
+    qt6-tools-dev \
+    qt6-tools-dev-tools \
     xvfb \
     && rm -rf /var/lib/apt/lists/*
 
