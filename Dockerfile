@@ -14,6 +14,8 @@ RUN apt-get update && apt-get install -y \
     libqt6widgets6 \
     libqt6gui6 \
     libqt6core6 \
+    qtbase6-dev-tools \
+    xvfb \
     && rm -rf /var/lib/apt/lists/*
 
 # Create working directory
@@ -22,10 +24,11 @@ WORKDIR /app
 # Copy source files
 COPY . .
 
-# Build the application
+# Build and test the application
 RUN mkdir build && cd build \
-    && cmake .. \
-    && make
+    && cmake -DBUILD_TESTING=ON .. \
+    && make \
+    && xvfb-run ctest --output-on-failure
 
 # Run the application
 CMD ["./build/height-calculator"]
